@@ -75,7 +75,7 @@ return (
     much interest in solving problems.
     <br></br>
     <a href="mailto:arthurkevin1260@gmail.com"><button>Hire me</button></a>
- {" "}   <a href="mailto:arthurkevin1260@gmail.com"><button>
+ {" "}   <a href="../Assets/Kevin.pdf"><button>
     Resume  <FontAwesomeIcon icon={faDownload}/>
      </button></a>
 
